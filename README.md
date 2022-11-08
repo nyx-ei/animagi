@@ -20,3 +20,8 @@ b=2
 * [W3Schools](https://www.w3schools.io/file/ini-extension-introduction/) 
 * [How to format .ini files ?](https://docs.fileformat.com/system/ini/)
 * [.INI file syntax](https://www.instantiations.com/vast-support/documentation/90/sg/wwhelp/wwhimpl/common/html/wwhelp.htm#href=stug504.html&single=true)
+## Product specifications
+The process to use the Animagi system is to be able to generate .INI files in a bulky way. This include being able to:
+* design the .INI files to generate
+* set the locations of the .INI files
+* let the user fill the values of variables in the .INI files
